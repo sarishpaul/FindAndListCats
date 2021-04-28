@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FindAndListCats", "FindAndListCats\FindAndListCats.csproj", "{03828A7F-530F-4892-B002-A79087CF9AEB}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ListCats", "ListCats\ListCats.csproj", "{2EA1A65C-C839-44AF-A2D7-33F321A0B943}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03828A7F-530F-4892-B002-A79087CF9AEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03828A7F-530F-4892-B002-A79087CF9AEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03828A7F-530F-4892-B002-A79087CF9AEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03828A7F-530F-4892-B002-A79087CF9AEB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA1A65C-C839-44AF-A2D7-33F321A0B943}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA1A65C-C839-44AF-A2D7-33F321A0B943}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA1A65C-C839-44AF-A2D7-33F321A0B943}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA1A65C-C839-44AF-A2D7-33F321A0B943}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {801C1EBA-9D0F-4E84-81A0-593A504EF238}
+	EndGlobalSection
+EndGlobal
